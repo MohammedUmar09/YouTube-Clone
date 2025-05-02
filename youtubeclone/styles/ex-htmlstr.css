@@ -1,0 +1,14 @@
+.modal{
+    font-family:Montserrat;
+    text-align: center;
+    font-size:30px;
+}
+.order{
+    font-family:Montserrat;
+    text-align:center;
+    line-height: 2px;
+    font-size:18px;
+}
+.span{
+    text-decoration:underline;
+}
