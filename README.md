@@ -27,14 +27,18 @@ A responsive **YouTube Clone** created using **HTML** and **CSS**. This project 
 
 ## 📂 Folder Structure
 
+## 📂 Folder Structure
+
+```
 youtube-clone/
-├── youtube.html
+├── index.html
 ├── styles/
-│ └── style.css
+│   └── style.css
 ├── assets/
-│ ├── images/
-│ └── icons/
+│   ├── images/
+│   └── icons/
 └── README.md
+```
 
 ---
 
