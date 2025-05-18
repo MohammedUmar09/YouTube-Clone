@@ -2,7 +2,7 @@
 
 A responsive **YouTube Clone** created using **HTML** and **CSS**. This project replicates the core visual layout and design of YouTube, showcasing clean UI, responsive design, and front-end development skills without JavaScript or backend integration.
 
-![YouTube Clone Screenshot](casual-img/)
+![YouTube Clone Screenshot](casual-img/Screenshot (3).png)
 
 ---
 
