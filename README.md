@@ -27,8 +27,6 @@ A responsive **YouTube Clone** created using **HTML** and **CSS**. This project 
 
 ## 📂 Folder Structure
 
-## 📂 Folder Structure
-
 ```
 youtube-clone/
 ├── index.html
