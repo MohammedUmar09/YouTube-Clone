@@ -21,7 +21,6 @@ A responsive **YouTube Clone** created using **HTML** and **CSS**. This project 
 - **CSS3** — For styling and layout
 - **Flexbox & Grid** — For responsive and structured layout
 - **Google Fonts** — For YouTube-like typography
-- **Font Awesome** — For iconography (if used)
 
 ---
 
