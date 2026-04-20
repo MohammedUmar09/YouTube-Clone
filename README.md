@@ -10,7 +10,7 @@ A responsive **YouTube Clone** created using **HTML** and **CSS**. This project 
 
 - 📱 **Responsive Design** — Works seamlessly across desktops, tablets, and mobile devices.
 - 🎨 **Modern UI** — Clean and familiar YouTube-style interface.
-- 🧱 **Pure Front-End** — Built entirely with HTML5 and CSS3 (no frameworks or JavaScript).
+- 🧱 **Front-End** — Built entirely with HTML5 and CSS3.
 - 🎥 Video Thumbnails Layout — Organized and styled like real YouTube cards for a clean browsing experience.
 
 ---
